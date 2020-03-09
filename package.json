@@ -11,6 +11,10 @@
     "coding",
     "style"
   ],
+  "files": [
+    "index.js",
+    "src/"
+  ],
   "author": "Howard.Zuo",
   "license": "MIT",
   "bugs": {
