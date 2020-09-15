@@ -22,16 +22,15 @@
   },
   "homepage": "https://github.com/leftstick/react-coding-style#readme",
   "dependencies": {
-    "@typescript-eslint/eslint-plugin": "2.x",
-    "@typescript-eslint/parser": "2.x",
+    "@typescript-eslint/eslint-plugin": "4.x",
+    "@typescript-eslint/parser": "4.x",
     "babel-eslint": "^10.1.0",
-    "eslint": "^6.8.0",
-    "eslint-config-react-app": "^5.2.1",
-    "eslint-plugin-flowtype": "4.x",
+    "eslint": "^7.9.0",
+    "eslint-plugin-flowtype": "5.x",
     "eslint-plugin-import": "^2.22.0",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-react": "^7.20.6",
-    "eslint-plugin-react-hooks": "2.x",
+    "eslint-plugin-react-hooks": "4.x",
     "prettier": "^2.1.1",
     "typescript": "^4.0.2"
   }
