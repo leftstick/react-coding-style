@@ -13,17 +13,15 @@ $ yarn add --dev react-coding-style
 Edit `.eslintrc.js`
 
 ```js
-module.exports = {
-  extends: [require.resolve('react-coding-style/src/eslint')]
-}
+const style = require('react-coding-style')
+
+module.exports = style.tslint
 ```
 
 Edit `.prettierrc.js`
 
 ```js
-const prettier = require('react-coding-style/src/prettier')
+const style = require('react-coding-style')
 
-module.exports = {
-  ...prettier
-}
+module.exports = style.prettier
 ```
